@@ -1,0 +1,10 @@
+const C = {
+  TILE_SIZE: 32,
+  CHUNK_SIZE: 16,
+  VIEW_DISTANCE: 3,
+  WAVE_TIME: 30,
+  BOSS_EVERY: 10,
+  PLAYER_ATK: 15,
+  MOB_HP: 10,
+  BOSS_HP: 300
+};
